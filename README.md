@@ -21,8 +21,15 @@ const developer = {
 ### 📊 System Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Gylvaris&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Gylvaris&layout=compact&theme=tokyonight&langs_count=6" height="180" />
+  <!-- Stable Stats Link -->
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Gylvaris&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gylvaris&layout=compact&theme=tokyonight&langs_count=6" height="180" />
+</p>
+
+<p align="left">
+  <!-- Bulletproof Shields (Backup) -->
+  <img src="https://img.shields.io/github/commit-activity/y/Gylvaris?style=flat-square&logo=github&color=7aa2f7&label=Commits" />
+  <img src="https://img.shields.io/github/repo-size/Gylvaris/Gylvaris?style=flat-square&logo=github&color=7aa2f7&label=Profile%20Size" />
 </p>
 
 ---
@@ -43,6 +50,6 @@ const developer = {
 <a href="https://linkedin.com/in/yourprofile">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your@email.com">
+<a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
