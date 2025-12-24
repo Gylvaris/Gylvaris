@@ -2,15 +2,17 @@
 
 ```typescript
 const developer = {
-  name: "Gylvaris",
+  name: "Antoni "Gylvaris" Bella",
   age: 20,
   specialization: "Backend & Systems",
-  current_stack: ["Node.js", "TypeScript", "Next.js"],
+  current_stack: ["Linux", "Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL"], 
   interests: [
     "API Design", 
     "Type-Safe Architecture", 
-    "Performance Optimization"
+    "Performance Optimization",
+    "Games",
+    "Anime"
   ],
   currently_learning: ["System Design", "Advanced TypeScript"],
 };
