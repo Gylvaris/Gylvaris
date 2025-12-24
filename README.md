@@ -3,6 +3,7 @@
 ```typescript
 const developer = {
   name: "Gylvaris",
+  Age: "20",
   specialization: "Backend & Systems",
   current_stack: ["Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL"], 
@@ -50,10 +51,15 @@ const developer = {
 ### 📬 Signal Transmission
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/antoni-bella-474653263/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="bellaantoni21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛰️ Traffic Analytics
+![Visitor Count](https://moe-counter.glitch.me/get/@Gylvaris?theme=gelbooru)
+
+<p align="center">
+  <sub>Total system access requests processed.</sub>
 </p>
