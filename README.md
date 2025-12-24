@@ -3,7 +3,7 @@
 ```typescript
 const developer = {
   name: "Gylvaris",
-  Age: "20",
+  age: 20,
   specialization: "Backend & Systems",
   current_stack: ["Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL"], 
@@ -12,8 +12,7 @@ const developer = {
     "Type-Safe Architecture", 
     "Performance Optimization"
   ],
-  status: "Expanding knowledge beyond the JS ecosystem",
-  currently_learning: ["System Design", "Advanced TypeScript"]
+  currently_learning: ["System Design", "Advanced TypeScript"],
 };
 ```
 
@@ -39,7 +38,7 @@ const developer = {
 
 ### 🚀 Active Process
 
-**Current Project:** `finance-tracker`
+**Current Project:** [`finance-tracker`](https://github.com/Gylvaris/finance-tracker)
 > A backend-heavy application focused on robust data handling and financial logic.
 
 - 🛠️ **The Challenge:** Implementing type-safe API routes and secure authentication.
