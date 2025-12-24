@@ -5,14 +5,14 @@ const developer = {
   name: "Gylvaris",
   specialization: "Backend & Systems",
   current_stack: ["Node.js", "TypeScript", "Next.js"],
-  databases: ["PostgreSQL", "MongoDB"], 
+  databases: "PostgreSQL", 
   interests: [
     "API Design", 
     "Type-Safe Architecture", 
     "Performance Optimization"
   ],
   status: "Expanding knowledge beyond the JS ecosystem",
-  currently_learning: ["System Design", "Advanced SQL"]
+  currently_learning: ["System Design", "TypeScript]
 };
 ```
 
@@ -21,22 +21,24 @@ const developer = {
 ### 📊 System Analytics
 
 <p align="left">
-  <!-- Stable Stats Link -->
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Gylvaris&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gylvaris&layout=compact&theme=tokyonight&langs_count=6" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Gylvaris&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Gylvaris&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="180" />
 </p>
 
+### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Bulletproof Shields (Backup) -->
-  <img src="https://img.shields.io/github/commit-activity/y/Gylvaris?style=flat-square&logo=github&color=7aa2f7&label=Commits" />
-  <img src="https://img.shields.io/github/repo-size/Gylvaris/Gylvaris?style=flat-square&logo=github&color=7aa2f7&label=Profile%20Size" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 Active Process
 
-**Current Project:** [Project Name]  
+**Current Project:** finance-tracker
 *A backend-heavy application focused on robust data handling.*
 
 - 🛠️ **The Challenge:** Implementing type-safe API routes and secure authentication.
@@ -47,7 +49,7 @@ const developer = {
 
 ### 📬 Signal Transmission
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/your-profile-url">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:your-email@example.com">
