@@ -3,7 +3,7 @@
 ```typescript
 const developer = {
   name: "Antoni Gylvaris Bella",
-  age: 20,
+  age: 21,
   specialization: "Backend & Systems",
   current_stack: ["Linux", "Node.js", "TypeScript", "Next.js"],
   databases: ["PostgreSQL"], 
