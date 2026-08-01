@@ -1,55 +1,40 @@
-# ⚡ system.init()
+# 👾 Hizotaro
 
 ```javascript
-const developer = {
+const boot = {
   name: "Hizotaro",
-  age: 21,
-  specialization: " ",
-  current_stack: ["Linux"],
-  interests: [
-    "Technology",
-    "Games",
-    "Anime",
-  ],
-  currently_learning: ["HTML", "CSS" "JavaScript"],
+  status: "learning to code, from scratch",
+  path: "The Odin Project",
+  stack: ["Linux", "HTML", "CSS", "JavaScript", "Git"],
+  currently_learning: ["JavaScript", "Git", "terminal"],
+  next_up: ["Node.js", "React"],
+  vibes: ["games", "anime", "open source"],
 };
 ```
 
+> `status: online` // `terminal: ready` // `coffee: required`
+
 ---
 
-### 📊 System Analytics
+### 📍 Current Position
 
-<p align="left">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Hizotaro&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="175" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Hizotaro&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="175" />
-</p>
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+> Learning the fundamentals for the first time. No fake projects, no filler — just grinding through the basics properly.
 
 ---
 
 ### 🚀 Active Process
 
-**Current Project:** -
-> -
+**Current Project:** The Odin Project — Foundations
 
-- 🛠️ **The Challenge:** -
-- 📦 **Tech Stack:** -
-- 🚧 **Status:** -
+> - 📦 **Now:** HTML, CSS, JavaScript basics + Git workflow
+> - 🚧 **Status:** working through it, one lesson at a time
 
 ---
 
-### 🛰️ Traffic Analytics
+### 🛰️ Visitor Counter
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Gylvaris?theme=gelbooru" alt="Visitor Count" />
+  <img src="https://count.getloli.com/get/@Hizotaro?theme=gelbooru" alt="Visitor Count" />
   <br />
   <sub>Total system access requests processed.</sub>
 </p>
